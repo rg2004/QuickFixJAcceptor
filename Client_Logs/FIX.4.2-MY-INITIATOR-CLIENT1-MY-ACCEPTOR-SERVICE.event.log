@@ -1,0 +1,23 @@
+20220419-18:01:05: Session FIX.4.2:MY-INITIATOR-CLIENT1->MY-ACCEPTOR-SERVICE schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20220419-18:01:05: Created session: FIX.4.2:MY-INITIATOR-CLIENT1->MY-ACCEPTOR-SERVICE
+20220419-18:01:05: No responder, not sending message: 8=FIX.4.29=10035=A34=149=MY-INITIATOR-CLIENT152=20220419-18:01:05.32256=MY-ACCEPTOR-SERVICE98=0108=30141=Y10=081
+20220419-18:01:07: java.net.ConnectException: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20220419-18:01:12: Pending connection not established after 2004 ms.
+20220419-18:01:13: java.net.ConnectException: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20220419-18:01:17: Pending connection not established after 2001 ms.
+20220419-18:01:18: java.net.ConnectException: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20220419-18:01:22: Pending connection not established after 2005 ms.
+20220419-18:01:23: java.net.ConnectException: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20220419-18:01:48: Session FIX.4.2:MY-INITIATOR-CLIENT1->MY-ACCEPTOR-SERVICE schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20220419-18:01:48: Created session: FIX.4.2:MY-INITIATOR-CLIENT1->MY-ACCEPTOR-SERVICE
+20220419-18:01:48: No responder, not sending message: 8=FIX.4.29=10035=A34=149=MY-INITIATOR-CLIENT152=20220419-18:01:48.87856=MY-ACCEPTOR-SERVICE98=0108=30141=Y10=104
+20220419-18:01:49: Initiated logon request
+20220419-18:01:49: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20220419-18:01:49: Received logon
+20220419-18:02:59: Session FIX.4.2:MY-INITIATOR-CLIENT1->MY-ACCEPTOR-SERVICE schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20220419-18:02:59: Created session: FIX.4.2:MY-INITIATOR-CLIENT1->MY-ACCEPTOR-SERVICE
+20220419-18:02:59: No responder, not sending message: 8=FIX.4.29=10035=A34=149=MY-INITIATOR-CLIENT152=20220419-18:02:59.09056=MY-ACCEPTOR-SERVICE98=0108=30141=Y10=093
+20220419-18:03:00: Initiated logon request
+20220419-18:03:00: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20220419-18:03:00: Received logon
+20220419-18:03:17: Disconnecting: Socket exception (/127.0.0.1:12000): java.io.IOException: An existing connection was forcibly closed by the remote host
